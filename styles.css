@@ -1,3 +1,7 @@
+.first {
+	text-align: center;
+	color: cyan;
+}
 body {
-	text-align: centre;
+	background-color: black;
 }
